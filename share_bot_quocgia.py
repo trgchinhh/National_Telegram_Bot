@@ -1,6 +1,6 @@
 # ! py
 # Bot lấy thông tin quốc gia
-# Copyright by @Truongchinh304
+# Copyright by NTC
 
 import telebot, requests, os
 from telebot import types 
